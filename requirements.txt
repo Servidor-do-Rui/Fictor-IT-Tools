@@ -1,0 +1,4 @@
+psutil
+pywebview
+reportlab
+pyinstaller
